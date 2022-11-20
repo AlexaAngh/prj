@@ -1,1 +1,4 @@
+com\itfactory\interfaces\FormaGeometrica.class
 com\itfactory\Main.class
+com\itfactory\model\Dreptunghi.class
+com\itfactory\model\Triunghi.class
